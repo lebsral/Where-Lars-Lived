@@ -15,7 +15,7 @@
                 "startDate":"1971",
                 "endDate":"1976",
                 "headline":"Log Cabin in Alaska",
-                "text":'<p>Body text goes here, some HTML is OK  <a href="https://www.google.com">Interactive SV</a></p>',
+                "text":"<p>Body text goes here, some HTML is OK  <a href='"https://www.google.com"'>Interactive SV</a></p>",
                 "tag":"This is Optional",
                 "classname":"logcabinclass",
                 "asset": {
