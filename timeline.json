@@ -16,7 +16,7 @@
                 "endDate":"1976",
                 "headline":"Log Cabin in Alaska",
                 "text":"<p>Body text goes here, some HTML is OK  <a href=https://www.google.com>Interactive SV</a></p>",
-                "tag":"This is Optional",
+                "tag":"House, Parent Built,",
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"",
@@ -30,7 +30,7 @@
                 "endDate":"1980",
                 "headline":"Fairbanks big house",
                 "text":"<p>Body text goes here, some HTML is OK</p>",
-                "tag":"This is Optional",
+                "tag":"House",
                 "classname":"FBXbighouseclass",
                 "asset": {
                     "media":"",
