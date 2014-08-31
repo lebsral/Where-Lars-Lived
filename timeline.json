@@ -12,8 +12,7 @@
         },
         "date": [
             {
-                "startDate":"1971,12,10",
-                "endDate":"1970,12,11",
+                "startDate":"1971",
                 "headline":"Fairbanks Headline Goes Here",
                 "text":"<p>Body text goes here, some HTML is OK</p>",
                 "tag":"This is Optional",
@@ -23,6 +22,16 @@
                     "thumbnail":"optional-32x32px.jpg",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption text goes here"
+                }
+            },
+            {
+            "startDate": "2007",
+            "headline": "Multi Touch",
+            "text": "Steve Jobs unveils the iPhone and the multi touch interface.",
+            "asset": {
+                "media": "http://upload.wikimedia.org/wikipedia/commons/4/49/IPhone_at_Macworld_%28angled_view%29.jpg",
+                "credit": "By blakeburris, via <a href='http://commons.wikimedia.org/wiki/File:IPhone_at_Macworld_(angled_view).jpg'>Wikimedia Commons</a>",
+                "caption": ""
                 }
             }
         ]
