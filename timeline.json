@@ -34,6 +34,17 @@
                 "tag":"This is Optional"
             }
 
+        ],
+        
+                "era": [
+            {
+                "startDate":"1971,12,10",
+                "endDate":"1971,12,11",
+                "headline":"Fairbanks",
+                "text":"<p>Body text goes here, some HTML is OK</p>",
+                "tag":"This is Optional"
+            }
+
         ]
     }
 }
