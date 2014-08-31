@@ -45,7 +45,7 @@
                 "tag":"This is Optional",
                 "classname":"optionaluniqueclassnamecanbeaddedhere",
                 "asset": {
-                    "media":"<iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://my.ctrlq.org/maps/#street|1|-57.08818117158538|-3.0610375702340193|59.641668|-151.55073600000003"></iframe>",
+                    "media":"http://twitter.com/ArjunaSoriano/status/164181156147900416",
                     "thumbnail":"optional-32x32px.jpg",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption text goes here"
