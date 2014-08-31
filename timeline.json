@@ -19,7 +19,7 @@
                 "tag":"This is Optional",
                 "classname":"logcabinclass",
                 "asset": {
-                    "media":"https://www.google.com/maps/place/Farmers+Loop+Rd,+Fairbanks,+AK/@64.882767,-147.787061,3a,75y,227.38h,84.55t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0!4m2!3m1!1s0x513244e34492547b:0x5927e7e3510227d7",
+                    "media":"",
                     "thumbnail":"optional-32x32px.jpg",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
@@ -33,7 +33,7 @@
                 "tag":"This is Optional",
                 "classname":"FBXbighouseclass",
                 "asset": {
-                    "media":"https://www.google.com/maps/@64.92853,-148.020882,3a,75y,319.99h,93.68t/data=!3m4!1e1!3m2!1sfuzK26ey4iLUjL-hzSo1Pw!2e0",
+                    "media":"",
                     "thumbnail":"optional-32x32px.jpg",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for F big house"
