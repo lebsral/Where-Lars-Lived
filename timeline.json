@@ -1,9 +1,9 @@
 {
     "timeline":
     {
-        "headline":"xxThe Main Timeline Headline Goes here",
+        "headline":"The Main Timeline Headline Goes here",
         "type":"default",
-        "text":"<p>xxIntro body text goes here, some HTML is ok</p>",
+        "text":"<p>Intro body text goes here, some HTML is ok</p>",
         "asset": {
             "media":"http://yourdomain_or_socialmedialink_goes_here.jpg",
             "credit":"Credit Name Goes Here",
@@ -14,7 +14,7 @@
                 "startDate":"1971,12,10",
                 "endDate":"1970,12,11",
                 "headline":"Fairbanks Headline Goes Here",
-                "text":"<p>xxxBody text goes here, some HTML is OK</p>",
+                "text":"<p>Body text goes here, some HTML is OK</p>",
                 "tag":"This is Optional",
                 "classname":"optionaluniqueclassnamecanbeaddedhere",
                 "asset": {
@@ -40,14 +40,14 @@
                 "startDate":"2011,12,10",
                 "endDate":"2011,12,11",
                 "headline":"Headline Goes Here",
-                "text":"<p>xBody text goes here, some HTML is OK</p>",
+                "text":"<p>Body text goes here, some HTML is OK</p>",
                 "tag":"This is Optional",
                 "classname":"optionaluniqueclassnamecanbeaddedhere",
                 "asset": {
                     "media":"http://twitter.com/ArjunaSoriano/status/164181156147900416",
                     "thumbnail":"optional-32x32px.jpg",
-                    "credit":"xxCredit Name Goes Here",
-                    "caption":"xxxxCaption text goes here"
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption text goes here"
                 }
             }
         ],
@@ -55,9 +55,9 @@
             {
                 "startDate":"2011,12,10",
                 "endDate":"2011,12,11",
-                "headline":"xxxHeadline Goes Here",
+                "headline":"Headline Goes Here",
                 "text":"<p>yBody text goes here, some HTML is OK</p>",
-                "tag":"xxxxxThis is Optional"
+                "tag":"This is Optional"
             }
         ]
     }
