@@ -38,6 +38,384 @@
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for F big house"
                 }
+            },
+             {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"6/1971",
+                "endDate":"12/1976",
+                "headline":"Log Cabin in Alaska",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Owned",
+                "classname":"logcabinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
             }
         ]
     }
