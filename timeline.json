@@ -19,7 +19,7 @@
                 "tag":"Owned",
                 "classname":"logcabinclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x300&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"optional-32x32px.jpg",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
