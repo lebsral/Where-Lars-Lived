@@ -266,7 +266,8 @@
                 "classname":"Everettclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=47.896689,-122.246762&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"http://lorempixel.com/32/32"
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":"la la"
                 }
             },
             {
@@ -305,6 +306,7 @@
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=45.575942,-122.731044&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":"bla"
                 }
             },
             {
