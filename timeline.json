@@ -14,7 +14,7 @@
                 "startDate":"6/1971",
                 "endDate":"11/1976",
                 "headline":"Log Cabin in Alaska",
-                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5. <a href \"http://www.google.com\"> google</a> </p>",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5. <a href\"http://www.google.com\">google</a></p>",
                 "tag":"Owned",
                 "classname":"logcabinclass",
                 "asset": {
