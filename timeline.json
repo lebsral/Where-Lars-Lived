@@ -229,7 +229,7 @@
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=36.112999,-97.069347&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
-                    "caption":" One time I fell down those stairs when it was icy.  That sucked."
+                    "caption":"One time I fell down those stairs when it was icy.  That sucked."
                 }
             },
             {
@@ -241,7 +241,8 @@
                 "classname":"TexasClass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=29.7989198,-94.9558671&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"http://lorempixel.com/32/32"
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":"Texas"
                 }
             }
         ]
