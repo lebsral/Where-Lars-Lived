@@ -33,22 +33,9 @@
                 "classname":"FBXbighouseclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.92853,-148.020882&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Fairbanks big house"
-                }
-            },
-             {
-                "startDate":"1980",
-                "endDate":"1981",
-                "headline":"We lived in these 3 houses in Juneau.",
-                "text":"<p> My mom was a student teacher in Juneau.<a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
-                "tag":"",
-                "classname":"mansionclass",
-                "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=58.302449,-134.414884&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
-                    "caption":"Just kidding, that is the governor's mansion.  But, I really did walk past there on the way home after school everyday, to our first place in Juneau.  The rock wall has earth worms in the cracks under the moss.  I dug some out for the gov.  Because that is just the way I roll"
                 }
             },
             {
@@ -60,7 +47,7 @@
                 "classname":"highriseclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=58.302506,-134.4083&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Too many ponds in this part of town."
                 }
@@ -74,7 +61,7 @@
                 "classname":"JuneauAptclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=58.3770076,-134.5810435&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Too many ponds in this part of town."
                 }
@@ -88,7 +75,7 @@
                 "classname":"JuneauHouselass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=58.3770076,-134.5810435&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -102,7 +89,7 @@
                 "classname":"ChimneySpringsclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=32.935134,-105.598133&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -116,7 +103,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -130,7 +117,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -144,7 +131,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -158,7 +145,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -172,7 +159,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -186,7 +173,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -200,7 +187,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -214,7 +201,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -228,7 +215,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -242,7 +229,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -256,7 +243,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -270,7 +257,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -284,7 +271,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -298,7 +285,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -312,7 +299,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -326,7 +313,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -340,7 +327,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -354,7 +341,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -368,7 +355,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -382,7 +369,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -396,7 +383,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
@@ -410,7 +397,7 @@
                 "classname":"logcabinclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
