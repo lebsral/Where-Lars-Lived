@@ -97,7 +97,7 @@
                 "tag":"Rented",
                 "classname":"trailerclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/staticmap?center59.5390893,-139.6978055&size=600x600&zoom=15&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/staticmap?center=59.5390893,-139.6978055&size=600x600&zoom=15&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"It smelled like heating oil."
                 }
@@ -240,7 +240,7 @@
                 "tag":"Rented",
                 "classname":"TexasClass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/staticmap?center=29.7989198,-94.9558671&size=600x600&zoom=14&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/staticmap?center=29.7989198,-94.9558671&size=600x600&zoom=15&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"Texas"
                 }
@@ -268,7 +268,7 @@
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=47.896689,-122.246762&heading=10&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
-                    "caption":"The apartment complex had a tanning bed.  I think I used in once."
+                    "caption":"The apartment complex had a tanning bed.  I think I used it once."
                 }
             },
             {
