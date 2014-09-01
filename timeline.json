@@ -57,7 +57,7 @@
                 "tag":"Rented",
                 "classname":"JuneauAptclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/staticmap?size=600x600&location=58.3770076,-134.5810435&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/staticmap?size=600x600&location=58.3770076,-134.5810435&zoom=15&size=600x600&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Too many ponds in this part of town."
