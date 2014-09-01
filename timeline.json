@@ -37,6 +37,62 @@
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Fairbanks big house"
                 }
+            },
+            {
+                "startDate":"8/1980",
+                "endDate":"9/1980",
+                "headline":"Highrise Juneau",
+                "text":"<p>We lived on an upper floor. It was a dump.  But the good news is that the freezer was so small that a carton of ice cream wouldn't fit in it.  One one time we got to eat ice cream for breakfast. <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Rented",
+                "classname":"highriseclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=58.302506,-134.4083&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Too many ponds in this part of town."
+                }
+            },
+            {
+                "startDate":"9/1980",
+                "endDate":"2/1981",
+                "headline":"Juneau Apartment",
+                "text":"<p>Very shortly after that we moved a little out of town to a nice apartment. I don't remember much except it was by pond in this neighborhood.  Which doesn't help much.  I only remember the pond because my little brother, Anders, fell through the ice and almost drowned.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Rented",
+                "classname":"JuneauAptclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=58.3770076,-134.5810435&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Too many ponds in this part of town."
+                }
+            },
+            {
+                "startDate":"2/1981",
+                "endDate":"4/1981",
+                "headline":"Juneau House",
+                "text":"<p>Then we moved to this part of town.  Which was great.  Right up to the moment it wasn't. <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Rented",
+                "classname":"JuneauHouselass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=58.3770076,-134.5810435&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"9/1981",
+                "endDate":"6/1982",
+                "headline":"Camp Chimney Springs",
+                "text":"<p>Moved to NM.  With a cross country, national park tour on the way there.  It was awesome.  I literally got to live at summer camp for entire year.  Archery, stars, kids, horses the whole thing. <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Rented",
+                "classname":"ChimneySpringsclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=32.935134,-105.598133&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption for Log Cabin"
+                }
             }
         ]
     }
