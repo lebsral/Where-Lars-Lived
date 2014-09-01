@@ -262,13 +262,13 @@
                 "startDate":"9/1997",
                 "endDate":"3/1999",
                 "headline":"Everett WA",
-                "text":"<p>Building airplane parts in Everett.  The drive was long so we moved to this apartment.</p>",
+                "text":"<p>Started building airplane parts in Everett.  The drive was long so we moved to this apartment.</p>",
                 "tag":"Rented",
                 "classname":"Everettclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=47.896689,-122.246762&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
-                    "caption":"la la"
+                    "caption":"The apartment complex had a tanning bed."
                 }
             },
             {
