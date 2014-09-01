@@ -20,7 +20,6 @@
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
-                    "credit":"Credit Name Goes Here",
                     "caption":"The street off of Farms Loop"
                 }
             },
@@ -34,7 +33,6 @@
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.92853,-148.020882&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
-                    "credit":"Credit Name Goes Here",
                     "caption":"Caption for Fairbanks big house"
                 }
             },
@@ -48,8 +46,7 @@
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=58.302506,-134.4083&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
-                    "credit":"Credit Name Goes Here",
-                    "caption":"Too many ponds in this part of town."
+                    "caption":"It was up some floors, but I don't remember the floor."
                 }
             },
             {
@@ -76,8 +73,7 @@
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=58.3770076,-134.5810435&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
-                    "credit":"Credit Name Goes Here",
-                    "caption":"Caption for Log Cabin"
+                    "caption":"Ya..."
                 }
             },
             {
@@ -90,10 +86,23 @@
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=32.935134,-105.598133&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
-                    "credit":"Credit Name Goes Here",
+                    "caption":"The Gate to Fun."
+                }
+            },
+                        {
+                "startDate":"7/1982",
+                "endDate":"11/1982",
+                "headline":"Trailer Yakutat",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5. </p>",
+                "tag":"Owned",
+                "classname":"trailerclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=59.5390893,-139.6978055&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"Caption for Log Cabin"
                 }
             }
+
         ]
     }
 }
