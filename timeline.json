@@ -89,7 +89,7 @@
                     "caption":"The Gate to Fun."
                 }
             },
-            {
+                  {
                 "startDate":"7/1982",
                 "endDate":"11/1982",
                 "headline":"Trailer Yakutat",
@@ -106,13 +106,52 @@
                 "startDate":"12/1982",
                 "endDate":"6/1983",
                 "headline":"Yakutat Apartment",
-                "text":"<p>Then the apartment in downtown Yakutat.</p>",
+                "text":"<p>The apartment in downtown Yakutat.</p>",
                 "tag":"Rented",
                 "classname":"Yakutattownclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=59.5450226,-139.7300754&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"It was a 4 plex.  The biggest in town."
+                }
+            },
+            {
+                "startDate":"8/1983",
+                "endDate":"7/1989",
+                "headline":"6 Mile",
+                "text":"<p>Finally to Homer. Here for my Jr High and High school years. It is about 6 miles out east end road.  Can't see it from here.  But I do have pictures of it.</a></p>",
+                "tag":"Owned",
+                "classname":"HomerHouseClass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=59.688172,-151.389351&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"7/1989",
+                "endDate":"7/1990",
+                "headline":"Lundamo, Norway",
+                "text":"<p>I was an exchange student in Norway.  My host family and I lived here.</p>",
+                "tag":"Owned",
+                "classname":"Norwayclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=63.150453,10.302237&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"9/1990",
+                "endDate":"6/1992",
+                "headline":"OofU Dorms",
+                "text":"<p>The dorms I lived in freshman and sophomore year of college.</p>",
+                "tag":"Rented",
+                "classname":"Robinshallclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=44.045501,-123.068021&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":"It was an expensive concrete box.  It was perfect."
                 }
             }
 
