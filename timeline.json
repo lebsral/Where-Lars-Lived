@@ -84,16 +84,14 @@
                 }
             },
             {
-                "startDate":"6/1971",
-                "endDate":"12/1976",
-                "headline":"Log Cabin in Alaska",
-                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
-                "tag":"Owned",
-                "classname":"logcabinclass",
+                "startDate":"9/1981",
+                "endDate":"6/1982",
+                "headline":"Camp Chimney Springs",
+                "text":"<p>Moved to NM.  With a cross country, national park tour on the way there.  It was awesome.  I literally got to live at summer camp for entire year.  Archery, stars, kids, horses the whole thing. <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Rented",
+                "classname":"ChimneySpringsclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
-                    "credit":"Credit Name Goes Here",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=32.935134,-105.598133&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "caption":"Caption for Log Cabin"
                 }
             },
