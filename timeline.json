@@ -24,15 +24,15 @@
                 }
             },
             {
-                "startDate":"1980",
-                "endDate":"1981",
+                "startDate":"12/1976",
+                "endDate":"6/1980",
                 "headline":"Spinch Creek House",
                 "text":"<p>The street of 2nd house I lived in Fairbanks.  Also built by my parents.  Bigger than the first, and with a long enough drive way that you can't actually see it from the road.  At least it is big in my memory.  I don't have pictures of that part of my childhood, so I can't check. <a target=\"StreetView\"  href=\"https://www.google.com/maps/@64.92853,-148.020882,3a,75y,319.99h,93.68t/data=!3m4!1e1!3m2!1sfuzK26ey4iLUjL-hzSo1Pw!2e0\">Interactive Street View.</a></p>",
                 "tag":"Owned",
                 "classname":"FBXbighouseclass",
                 "asset": {
-                    "media":"https://www.google.com/maps/@64.92853,-148.020882,3a,15y,249.97h,86.72t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "caption":"Caption for F big house"
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.92853,-148.020882&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "caption":"Caption for Fairbanks big house"
                 }
             },
              {
@@ -57,8 +57,6 @@
                 "classname":"highriseclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=58.302506,-134.4083&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
-                    "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
             },
@@ -75,16 +73,14 @@
                 }
             },
             {
-                "startDate":"6/1971",
-                "endDate":"12/1976",
-                "headline":"Log Cabin in Alaska",
-                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
-                "tag":"Owned",
-                "classname":"logcabinclass",
+                "startDate":"2/1981",
+                "endDate":"4/1981",
+                "headline":"Juneau House",
+                "text":"<p>Then we moved to this part of town.  Which was great.  Right up to the moment it wasn't. <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Rented",
+                "classname":"JuneauHouselass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
-                    "credit":"Credit Name Goes Here",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=58.3770076,-134.5810435&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "caption":"Caption for Log Cabin"
                 }
             },
