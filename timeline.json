@@ -89,17 +89,30 @@
                     "caption":"The Gate to Fun."
                 }
             },
-                        {
+            {
                 "startDate":"7/1982",
                 "endDate":"11/1982",
                 "headline":"Trailer Yakutat",
-                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5. </p>",
-                "tag":"Owned",
+                "text":"<p>Then back to Alaska.  Yakutat. Apparently google has not done street views of Yakutat yet, You will have to live with satellite images of the trailer we lived in when we first got there.</p>",
+                "tag":"Rented",
                 "classname":"trailerclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=59.5390893,-139.6978055&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"Caption for Log Cabin"
+                }
+            },
+            {
+                "startDate":"12/1982",
+                "endDate":"6/1983",
+                "headline":"Yakutat Apartment",
+                "text":"<p>Then the apartment in downtown Yakutat.</p>",
+                "tag":"Rented",
+                "classname":"Yakutattownclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=59.5450226,-139.7300754&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":"It was a 4 plex.  The biggest in town."
                 }
             }
 
