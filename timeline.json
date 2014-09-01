@@ -97,7 +97,7 @@
                 "tag":"Rented",
                 "classname":"trailerclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/staticmap?center59.5390893,-139.6978055&zoom=15&size=600x600&zoom=15&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/staticmap?center59.5390893,-139.6978055&size=600x600&zoom=15&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"It smelled like heating oil."
                 }
@@ -110,7 +110,7 @@
                 "tag":"Rented",
                 "classname":"Yakutattownclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/staticmap?center=59.5450226,-139.7300754&zoom=15&size=600x600&zoom=15&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/staticmap?center=59.5450226,-139.7300754&size=600x600&zoom=15&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"It was a 4 plex.  The biggest in town."
                 }
