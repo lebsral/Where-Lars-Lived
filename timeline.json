@@ -18,7 +18,7 @@
                 "tag":"Owned",
                 "classname":"logcabinclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&heading=90&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"The street off of Farms Loop"
                 }
@@ -31,7 +31,7 @@
                 "tag":"Owned",
                 "classname":"FBXbighouseclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.92853,-148.020882&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.92853,-148.020882&heading=180&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"Caption for Fairbanks big house"
                 }
@@ -69,7 +69,7 @@
                 "headline":"Juneau House",
                 "text":"<p>Then we moved to this part of town.  Which was great.  Right up to the moment it wasn't. <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
                 "tag":"Rented",
-                "classname":"JuneauHouselass",
+                "classname":"JuneauHouseclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=58.3770076,-134.5810435&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
@@ -123,7 +123,7 @@
                 "tag":"Owned",
                 "classname":"HomerHouseClass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=59.688172,-151.389351&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=59.688172,-151.389351&heading=90&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"Caption for Log Cabin"
                 }
@@ -136,7 +136,7 @@
                 "tag":"Owned",
                 "classname":"Norwayclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=63.150453,10.302237&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=63.150453,10.302237&heading=140&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"Caption for Log Cabin"
                 }
@@ -149,7 +149,7 @@
                 "tag":"Rented",
                 "classname":"Robinshallclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=44.045501,-123.068021&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=44.045501,-123.068021&heading=180&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"It was an expensive concrete box.  It was perfect."
                 }
@@ -175,7 +175,7 @@
                 "tag":"Rented",
                 "classname":"FerryStclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=44.046748,-123.085151&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=44.046748,-123.085151&heading=300&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"It had squeeky wooden floors."
                 }
@@ -188,7 +188,7 @@
                 "tag":"Rented",
                 "classname":"13thclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=44.045514,-123.085743&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=44.045514,-123.085743&heading=180&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"At least I learned some things."
                 }
@@ -214,7 +214,7 @@
                 "tag":"Rented",
                 "classname":"Wentzclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=36.126769,-97.074269&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=36.126769,-97.074269&heading=270&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"Met some very cool people here."
                 }
@@ -227,7 +227,7 @@
                 "tag":"Rented",
                 "classname":"Stairsclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=36.112999,-97.069347&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=36.112999,-97.069347&heading=90&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"One time I fell down those stairs when it was icy.  That sucked."
                 }
@@ -253,20 +253,20 @@
                 "tag":"Rented",
                 "classname":"Lynnwoodclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=47.816776,-122.316138&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=47.816776,-122.316138&heading=320&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"It was behind a bowling alley.  I never once went bowling there.  I like bowling."
                 }
             },
             {
-                "startDate":"9/1997",
+                "startDate":"9/1998",
                 "endDate":"3/1999",
                 "headline":"Everett WA",
                 "text":"<p>Started building airplane parts in Everett.  The drive was long so we moved to this apartment.</p>",
                 "tag":"Rented",
                 "classname":"Everettclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=47.896689,-122.246762&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=47.896689,-122.246762&heading=90&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"The apartment complex had a tanning bed."
                 }
@@ -279,7 +279,7 @@
                 "tag":"Owned",
                 "classname":"Jstclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=44.054861,-123.016734&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=44.054861,-123.016734&heading=270&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"The outside was painted pink.  The inside was seafoam green."
                 }
@@ -298,8 +298,8 @@
                 }
             },
             {
-                "startDate":"6/1993",
-                "endDate":"6/1995",
+                "startDate":"6/2003",
+                "endDate":"6/2005",
                 "headline":"UP Housing",
                 "text":"<p>Back to School again.  This time for an MBA at University of Portland.Stayed in Graduate student housing</p>",
                 "tag":"Rented",
@@ -311,14 +311,14 @@
                 }
             },
             {
-                "startDate":"6/1995",
-                "endDate":"3/1995",
+                "startDate":"6/2005",
+                "endDate":"3/2006",
                 "headline":"Oberlin St, PDX",
                 "text":"<p>Off campus. Still working on my MBA. Had a nice land lady named Kim here.</p>",
                 "tag":"Rented",
                 "classname":"Oberlinclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=45.58339,-122.731546&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=45.58339,-122.731546&heading=90&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"A golden retriever lived here."
                 }
@@ -331,7 +331,7 @@
                 "tag":"Rented",
                 "classname":"NoPoclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=45.592904,-122.760763&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=45.592904,-122.760763&heading=320&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"I could walk down to the river."
                 }
@@ -370,7 +370,7 @@
                 "tag":"Rented",
                 "classname":"Belugaclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=59.639296,-151.5105&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=59.639296,-151.5105&heading=270&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"Great view of the float planes on the lake."
                 }
