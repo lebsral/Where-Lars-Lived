@@ -231,6 +231,146 @@
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":" One time I fell down those stairs when it was icy.  That sucked."
                 }
+            },
+            {
+                "startDate":"6/1995",
+                "endDate":"6/1997",
+                "headline":"Texas",
+                "text":"<p>Down to Texas.  To an average apartment mega-plex here.  It was for a job, I left as soon as the job was over.</p>",
+                "tag":"Rented",
+                "classname":"TexasClass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=29.7989198,-94.9558671&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32"
+                }
+            },
+            {
+                "startDate":"9/1997",
+                "endDate":"8/1998",
+                "headline":"Lynnwood WA",
+                "text":"<p>We, (my fiance, myself, and my brother all lived here).  My brother and I ran and internet company, way before that was cool.  It wasn't cool enough so I got a job.</p>",
+                "tag":"Rented",
+                "classname":"Lynnwoodclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=47.816776,-122.316138&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":"It was behind a bowling alley.  I never once went bowling there.  I like bowling."
+                }
+            },
+            {
+                "startDate":"9/1997",
+                "endDate":"3/1999",
+                "headline":"Everett WA",
+                "text":"<p>Building airplane parts in Everett.  The drive was long so we moved to this apartment.</p>",
+                "tag":"Rented",
+                "classname":"Everettclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=47.896689,-122.246762&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32"
+                }
+            },
+            {
+                "startDate":"3/1999",
+                "endDate":"2/2003",
+                "headline":"J Street",
+                "text":"<p>J st in Springfield.  The first home I ever owned myself.</p>",
+                "tag":"Owned",
+                "classname":"Jstclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=44.054861,-123.016734&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":"The outside was painted pink.  The inside was seafoam green."
+                }
+            },
+            {
+                "startDate":"6/2005",
+                "endDate":"9/2009",
+                "headline":"Battleground WA",
+                "text":"<p>Stayed at a place up this road on and off for several years.  Very good people here.</p>",
+                "tag":"",
+                "classname":"Chumleyclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=45.838289,-122.567182&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":"They had an above ground pool in back."
+                }
+            },
+            {
+                "startDate":"6/1993",
+                "endDate":"6/1995",
+                "headline":"UP Housing",
+                "text":"<p>Back to School again.  This time for an MBA at University of Portland.Stayed in Graduate student housing</p>",
+                "tag":"Rented",
+                "classname":"UPclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=45.575942,-122.731044&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                }
+            },
+            {
+                "startDate":"6/1995",
+                "endDate":"3/1995",
+                "headline":"Oberlin St, PDX",
+                "text":"<p>Off campus. Still working on my MBA. Had a nice land lady named Kim here.</p>",
+                "tag":"Rented",
+                "classname":"Oberlinclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=45.58339,-122.731546&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":"A golden retriever lived here."
+                }
+            },
+            {
+                "startDate":"6/2008",
+                "endDate":"12/2009",
+                "headline":"NOPO",
+                "text":"<p>Then I lived here.  Not much to say.  Was working full time and school.  It was nice place.  I was never there.</p>",
+                "tag":"Rented",
+                "classname":"NoPoclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=45.592904,-122.760763&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":"I could walk down to the river."
+                }
+            },
+            {
+                "startDate":"6/2007",
+                "endDate":"6/2008",
+                "headline":"Battleground",
+                "text":"<p>Then I did the suburban family thing here.  Great family.  Average house. Back in Washington State.</p>",
+                "tag":"Rented",
+                "classname":"suburbanclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=45.792108,-122.546119&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":"I mowed the hell out of that lawn."
+                }
+            },
+            {
+                "startDate":"6/2010",
+                "endDate":"11/2011",
+                "headline":"6th Street",
+                "text":"<p>Stay with my parents stint, as an adult in Springfield Oregon.  Not as bad as it sounds.  Not going to repeat it.</p>",
+                "tag":"Rented",
+                "classname":"6thstclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=44.053255,-123.018197&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":"Kick ass garden in the back."
+                }
+            },
+            {
+                "startDate":"6/2012",
+                "endDate":"6/2013",
+                "headline":"Homer",
+                "text":"<p>I moved back to Homer.  It was the best move so far.</p>",
+                "tag":"Rented",
+                "classname":"Belugaclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=59.639296,-151.5105&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":"Great view of the float planes on the lake."
+                }
             }
         ]
     }
