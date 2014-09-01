@@ -14,7 +14,7 @@
                 "startDate":"6/1971",
                 "endDate":"11/1976",
                 "headline":"Log Cabin in Alaska",
-                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5. <a href http://www.google.com> google</a> </p>",
+                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5. <a href \"http://www.google.com\"> google</a> </p>",
                 "tag":"Owned",
                 "classname":"logcabinclass",
                 "asset": {
@@ -57,7 +57,7 @@
                 "tag":"Rented",
                 "classname":"JuneauAptclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/staticmap?size=600x600&location=58.3770076,-134.5810435&zoom=15&size=600x600&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/staticmap?center=58.3770076,-134.5810435&zoom=15&size=600x600&zoom=15&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "credit":"Credit Name Goes Here",
                     "caption":"Too many ponds in this part of town."
@@ -136,9 +136,9 @@
                 "tag":"Owned",
                 "classname":"Norwayclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=63.150453,10.302237&heading=270&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=63.150453,10.302237&heading=200&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
-                    "caption":"Caption for Log Cabin"
+                    "caption":"The red barn was ours too."
                 }
             },
             {
@@ -210,7 +210,7 @@
                 "startDate":"6/1994",
                 "endDate":"3/1996",
                 "headline":"OK Dorms",
-                "text":"<p>Moved to Oklahoma.  A stint in graduate student housing.  (if you notice a gap before this it was because Anders and I were traveling in Aftrica.)</p>",
+                "text":"<p>Moved to Oklahoma.  A stint in graduate student housing.  (if you notice a time gap before this, it was because Anders and I were traveling in Aftrica.)</p>",
                 "tag":"Rented",
                 "classname":"Wentzclass",
                 "asset": {
@@ -268,7 +268,7 @@
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=47.896689,-122.246762&heading=10&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
-                    "caption":"The apartment complex had a tanning bed."
+                    "caption":"The apartment complex had a tanning bed.  I think I used in once."
                 }
             },
             {
@@ -372,7 +372,7 @@
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=59.639296,-151.5105&heading=270&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
-                    "caption":"Great view of the float planes on the lake."
+                    "caption":"Great view of the float planes on the lake.  A very nice place to have lunch."
                 }
             }
         ]
