@@ -153,8 +153,46 @@
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"It was an expensive concrete box.  It was perfect."
                 }
+            },
+            {
+                "startDate":"3/1991",
+                "endDate":"6/1991",
+                "headline":"Cuernavaca, Mexico",
+                "text":"<p>Also, I lived in Mexico.</p>",
+                "tag":"Rented",
+                "classname":"Mexicoclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=18.93096,-99.20607&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":"The dog that lived there was Samoan.  We gave it a hair cut."
+                }
+            },
+            {
+                "startDate":"6/1991",
+                "endDate":"6/1991",
+                "headline":"Ferry St",
+                "text":"<p>Stayed with my friends Justin and Jason here for a little bit when I got back from Mexico.</p>",
+                "tag":"Rented",
+                "classname":"FerryStclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=44.046748,-123.085151&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":"It had squeeky wooden floors."
+                }
+            },
+            {
+                "startDate":"7/1991",
+                "endDate":"9/1991",
+                "headline":"13th Ave",
+                "text":"<p>A strange house where I rented a room for a summer between freshman and sophomore year of college.  Kind of rough.  Cool people.  Across the street from a movie theater that was converted from an old church.  They showed 'alternative' films.</a></p>",
+                "tag":"Rented",
+                "classname":"13thclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=44.045514,-123.085743&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":"At least I learned some things."
+                }
             }
-
         ]
     }
 }
