@@ -192,6 +192,45 @@
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"At least I learned some things."
                 }
+            },
+            {
+                "startDate":"6/1992",
+                "endDate":"9/1993",
+                "headline":"Garden Ave, Eugene Oregon",
+                "text":"<p>The apartments that I lived in with Uday and Masa in college.  We lived in unit Q.  They both have a PhD in physics now.</p>",
+                "tag":"Rented",
+                "classname":"Gardenclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=44.046906,-123.066363&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":"We had great house plants."
+                }
+            },
+            {
+                "startDate":"6/1994",
+                "endDate":"3/1996",
+                "headline":"OK Dorms",
+                "text":"<p>Moved to Oklahoma.  A stint in graduate student housing.  (if you notice a gap before this it was because Anders and I were traveling in Aftrica.)</p>",
+                "tag":"Rented",
+                "classname":"Wentzclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=36.126769,-97.074269&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":"Met some very cool people here."
+                }
+            },
+            {
+                "startDate":"11/1994",
+                "endDate":"6/1996",
+                "headline":"Stairs of Doom",
+                "text":"<p>Technically my GF lived here.  But, I'm going to go ahead and say I lived there too.</p>",
+                "tag":"Rented",
+                "classname":"Stairsclass",
+                "asset": {
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=36.112999,-97.069347&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "thumbnail":"http://lorempixel.com/32/32",
+                    "caption":" One time I fell down those stairs when it was icy.  That sucked."
+                }
             }
         ]
     }
