@@ -1,14 +1,13 @@
 {
     "timeline":
     {
-        "headline":"The Main Timeline Headline Goes here",
+        "headline":"All the Places Lars Has Lived",
         "startDate": "1971",
         "type":"default",
-        "text":"<p>Intro body text goes here, some HTML is ok</p>",
+        "text":"<p>A timeline of all the houses and apartments I've lived in.</p>",
         "asset": {
-            "media":"<iframe src=\"https://mapsengine.google.com/map/embed?mid=zqu9E98YLWoM.k0tOSrPeHAI4\" width=\"640\" height=\"480\"></iframe>",
-            "credit":"Credit Name Goes Here",
-            "caption":"Caption text goes here"
+            "media":"<iframe src=\"https://mapsengine.google.com/map/embed?mid=zqu9E98YLWoM.k0tOSrPeHAI4\" width=\"640\" height=\"480\"></iframe>"
+
         },
         "date": [
             {
@@ -41,8 +40,8 @@
                 "endDate":"1981",
                 "headline":"We lived in these 3 houses in Juneau.  My mom was a student teacher in Juneau.",
                 "text":"<p>TThis is the elementary school I went to in Juneau for the 4th grade.  My mom was a student teacher in Juneau.<a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
-                "tag":"Owned",
-                "classname":"logcabinclass",
+                "tag":"",
+                "classname":"mansionclass",
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=58.302449,-134.414884&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"optional-32x32px.jpg",
@@ -52,29 +51,27 @@
             {
                 "startDate":"8/1980",
                 "endDate":"9/1980",
-                "headline":"Log Cabin in Alaska",
-                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
-                "tag":"Owned",
-                "classname":"logcabinclass",
+                "headline":"Highrise Juneau",
+                "text":"<p>We lived on an upper floor. It was a dump.  But the good news is that the freezer was so small that a carton of ice cream wouldn't fit in it.  So one one time we got to eat ice cream for breakfast. <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Rented",
+                "classname":"highriseclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=58.302506,-134.4083&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"optional-32x32px.jpg",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption for Log Cabin"
                 }
             },
             {
-                "startDate":"6/1971",
-                "endDate":"12/1976",
-                "headline":"Log Cabin in Alaska",
-                "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
-                "tag":"Owned",
-                "classname":"logcabinclass",
+                "startDate":"9/1980",
+                "endDate":"2/1981",
+                "headline":"Juneau Apartment",
+                "text":"<p>Very shortly after that we moved a little out of town to a nice apartment. I don't remember much except it was by pond in this neighborhood.  Which doesn't help much.  I only remember the pond because my little brother, Anders, fell through the ice and almost drowned.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
+                "tag":"Rented",
+                "classname":"JuneauAptclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
-                    "thumbnail":"optional-32x32px.jpg",
-                    "credit":"Credit Name Goes Here",
-                    "caption":"Caption for Log Cabin"
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=58.3770076,-134.5810435&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "caption":"Too many ponds in this part of town."
                 }
             },
             {
