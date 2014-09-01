@@ -6,7 +6,7 @@
         "type":"default",
         "text":"<p>Intro body text goes here, some HTML is ok</p>",
         "asset": {
-            "media":"http://yourdomain_or_socialmedialink_goes_here.jpg",
+            "media":"<iframe src=\"https://mapsengine.google.com/map/embed?mid=zqu9E98YLWoM.k0tOSrPeHAI4\" width=\"640\" height=\"480\"></iframe>",
             "credit":"Credit Name Goes Here",
             "caption":"Caption text goes here"
         },
@@ -50,8 +50,8 @@
                 }
             },
             {
-                "startDate":"6/1971",
-                "endDate":"12/1976",
+                "startDate":"8/1980",
+                "endDate":"9/1980",
                 "headline":"Log Cabin in Alaska",
                 "text":"<p>The very first house I ever lived in.  Fairbanks.  My parents built it.  Lived here til I was 5.  <a target=\"StreetView\" href=\"https://www.google.com/maps/@64.882767,-147.787061,3a,15y,249.12h,88.08t/data=!3m4!1e1!3m2!1s3e2owpB6JPa9IbHAvwn-QQ!2e0\">Interactive Street View.</a></p>",
                 "tag":"Owned",
