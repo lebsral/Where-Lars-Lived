@@ -20,7 +20,7 @@
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.882767,-147.787061&heading=270&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
-                    "caption":"The street off of Farms Loop"
+                    "caption":"The street off of Farmer's Loop"
                 }
             },
             {
@@ -33,7 +33,7 @@
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=64.92853,-148.020882&heading=90&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
-                    "caption":"Caption for Fairbanks big house"
+                    "caption":"Road I walked along to catch the bus in Kindergarden."
                 }
             },
             {
@@ -46,7 +46,7 @@
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=58.302506,-134.4083&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
-                    "caption":"It was up some floors, but I don't remember the floor."
+                    "caption":"It was up some floors, but I don't remember which floor."
                 }
             },
             {
@@ -99,7 +99,7 @@
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=59.5390893,-139.6978055&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
-                    "caption":"Caption for Log Cabin"
+                    "caption":"It smelled like heating oil."
                 }
             },
             {
@@ -125,7 +125,7 @@
                 "asset": {
                     "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=59.688172,-151.389351&heading=90&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
-                    "caption":"Caption for Log Cabin"
+                    "caption":"Lots of flowers out front."
                 }
             },
             {
@@ -136,7 +136,7 @@
                 "tag":"Owned",
                 "classname":"Norwayclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=63.150453,10.302237&heading=140&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=63.150453,10.302237&heading=90&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"Caption for Log Cabin"
                 }
@@ -188,7 +188,7 @@
                 "tag":"Rented",
                 "classname":"13thclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=44.045514,-123.085743&heading=180&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=44.045514,-123.085743&heading=10&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"At least I learned some things."
                 }
@@ -214,7 +214,7 @@
                 "tag":"Rented",
                 "classname":"Wentzclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=36.126769,-97.074269&heading=270&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=36.126769,-97.074269&heading=180&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"Met some very cool people here."
                 }
@@ -240,7 +240,7 @@
                 "tag":"Rented",
                 "classname":"TexasClass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=29.7989198,-94.9558671&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/staticmap?size=600x600&location=29.7989198,-94.9558671&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"Texas"
                 }
@@ -266,7 +266,7 @@
                 "tag":"Rented",
                 "classname":"Everettclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=47.896689,-122.246762&heading=90&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=47.896689,-122.246762&heading=180&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"The apartment complex had a tanning bed."
                 }
@@ -292,7 +292,7 @@
                 "tag":"",
                 "classname":"Chumleyclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=45.838289,-122.567182&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=45.838289,-122.567182&heading=180&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"They had an above ground pool in back."
                 }
@@ -318,7 +318,7 @@
                 "tag":"Rented",
                 "classname":"Oberlinclass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=45.58339,-122.731546&heading=90&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/streetview?size=600x600&location=45.58339,-122.731546&heading=70&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"A golden retriever lived here."
                 }
