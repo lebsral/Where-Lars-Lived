@@ -240,7 +240,7 @@
                 "tag":"Rented",
                 "classname":"TexasClass",
                 "asset": {
-                    "media":"http://maps.googleapis.com/maps/api/staticmap?size=600x600&location=29.7989198,-94.9558671&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
+                    "media":"http://maps.googleapis.com/maps/api/staticmap?center=29.7989198,-94.9558671&size=600x600&zoom=14&key=AIzaSyAMZTpzO2TdCZ1lYfCJCtseJMW4bMkspG4",
                     "thumbnail":"http://lorempixel.com/32/32",
                     "caption":"Texas"
                 }
