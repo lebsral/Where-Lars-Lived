@@ -4,7 +4,7 @@
         "headline":"All the Places Lars Has Lived",
         "startDate": "1971",
         "type":"default",
-        "text":"<p>A timeline of all the houses and apartments I've lived in.</p>",
+        "text":"<p>The timeline of all the houses and apartments I've lived in.</p>",
         "asset": {
             "media":"<iframe src=\"https://mapsengine.google.com/map/embed?mid=zqu9E98YLWoM.k0tOSrPeHAI4\" width=\"640\" height=\"480\"></iframe>"
 
